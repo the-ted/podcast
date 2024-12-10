@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Your Podcast Title</title>
-        <link>https://your-github-username.github.io/my-personal-podcast/</link>
-        <description>A brief description of your podcast</description>
+        <title>Another Podcast</title>
+        <link>https://wiles-ted.github.io/podcast/</link>
+        <description>More about your podcast</description>
         <language>en-us</language>
         <item>
-            <title>Episode 1 Title</title>
-            <description>Episode 1 Description</description>
+            <title>First episode</title>
+            <description>My Description</description>
             <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://link-to-your-hosted-mp3-file.com/episode1.mp3" length="12345" type="audio/mpeg" />
-        </item>
-        <item>
-            <title>Episode 2 Title</title>
-            <description>Episode 2 Description</description>
-            <pubDate>Tue, 02 Jan 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://link-to-your-hosted-mp3-file.com/episode2.mp3" length="67890" type="audio/mpeg" />
+            <enclosure url="https://wiles-ted.github.io/podcast/mp3/Look Who’s Talking.mp3" />
         </item>
     </channel>
 </rss>
