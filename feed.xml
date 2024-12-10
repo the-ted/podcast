@@ -9,7 +9,7 @@
             <title>First episode</title>
             <description>My Description</description>
             <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://wiles-ted.github.io/podcast/mp3/Look Who’s Talking.mp3" />
+            <enclosure url="https://wiles-ted.github.io/podcast/mp3/ep1.mp3" />
         </item>
     </channel>
 </rss>
